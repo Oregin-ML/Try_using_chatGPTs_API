@@ -1,0 +1,2 @@
+# Try_using_chatGPTs_API
+chatGPTをAPI経由で使ってみた
